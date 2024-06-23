@@ -1,0 +1,193 @@
+burger toppings:
+  tomato:
+    cost: .10
+    calories: 10
+  bacon:
+    cost: .95
+    calories: 60
+  chili:
+    cost: .65
+    calories: 70
+  cheese slice:
+    calories: 70
+    cost: .5
+  cheese sauce:
+    calories: 140
+    cost: 1
+  A1:
+    calories: 25
+    cost: .50
+  slaw:
+    calories: 40
+    cost: .50
+  jalapeno:
+    calories: 50
+    cost: .50
+  quesadilla sauce:
+    calories: 35
+    cost: .50
+  mayo:
+    cost: 0
+    calories: 95
+  mustard:
+    cost: 0
+    calories: 3
+  ketchup:
+    cost: 0
+    calories: 19
+  pickles:
+    cost: 0
+    calories: 7
+  onion:
+    cost: 0
+    calories: 44
+  lettuce:
+    cost: 0
+    calories: 5
+  grilled onions:
+    cost: 0
+    calories: 50
+  cajun seasoning:
+    cost: 0
+    calories: 5
+  BBQ sauce:
+    cost: 0
+    calories: 29
+
+
+
+
+sauces:
+  ranch:
+    cost: .50
+    calories: 0
+  honey mustard:
+    cost: .50
+    calories: 0
+
+side:
+  cost: 0
+  calories:
+    bacon wrap: 420
+    white cheddar cheese bites: 240
+    chicken nuggets: 150
+    ranch chicken wrap: 520
+    cajun chicken wrap: 510
+    honey mustard chicken wrap: 500
+    corn dog: 220
+    fries: 350
+    hushpuppies: 300
+    okra: 140
+    onion rings: 130
+    chicken quesadilla: 220
+    cheeseburger quesadilla: 260
+    slaw: 100
+    walking taco: 370
+side upcharge:
+  cost: .5
+  calories:
+    walking taco w/ jalapeños: 420
+beverage:
+  cost: 0
+  calories:
+    bottled water: 0
+    large Coca-Cola: 210
+    large Diet Coke: 0
+    large Sprite: 222
+    large Cheerwine: 216
+    large Dr. Pepper: 210
+    large Hi-C Orange Lava Burst: 240
+    huge sweet tea: 390
+    huge unsweet tea: 8
+    cheerwine float: 380
+    coke float: 380
+entree:
+  junior tray:
+    cost: 6.39
+    calories:
+      sm. burger: 240
+      2 chicken strips: 440
+      2 corn dogs: 440
+      blt sandwich: 400
+      1 hot dog: 260
+      chicken quesadilla: 220
+      cheeseburger quesadilla: 260
+  tray:
+    cost: 7.69
+    calories:
+      big dbl. burger: 340
+      reg 1/4 lb, burger: 330
+      reg barbeque: 370
+      2 hot dogs: 260
+      2 chicken quesadillas: 440
+      2 cheeseburger quesadillas: 520
+      1 cheeseburger quesadilla, 1 chicken quesadilla: 480
+      reg chicken: 380
+      cajun chicken: 380
+      spicy chicken: 450
+      bbq char grilled chicken: 380
+      3 chicken strips: 660
+      chicken strip sandwich: 674
+shake:
+  cost: 1.60
+  calories:
+    Fresh Banana: 538
+    Banana Blueberry: 671
+    Banana Chery: 671
+    Banana Fudge: 772
+    Banana Nut: 704
+    Banana Pineapple: 566
+    Banana Pudding: 781
+    Banana Strawberry: 671
+    Butterfinger: 720
+    Blueberry: 617
+    Cappuccino: 555
+    Caramel Fudge: 677
+    Caramel: 560
+    Cheesecake: 845
+    Cherry Cheesecake: 925
+    Blueberry Cheesecake: 925
+    Carmel Cheesecake: 925
+    Strawberry Cheesecake: 925
+    Choc Chip Cheesecake: 925
+    Classic Chocolate: 620
+    Double Chocolate: 651
+    Chocolate Cherry: 665
+    Chocolate Chip Mint: 834
+    Chocolate Malt: 671
+    Chocolate Nut: 752
+    Heath Toffee: 701
+    Hot Fudge: 754
+    Mocha: 620
+    Orange Push Up: 638
+    Oreo: 802
+    M&M: 755
+    Oreo Mint: 853
+    Oreo Peanut Butter: 847
+    Peach: 547
+    Peach Cobbler: 790
+    Fresh Peanut Butter: 847
+    Peanut Butter Banana: 864
+    Peanut Butter Fudge: 765
+    Pineapple: 575
+    Red Cherry: 600
+    Reese's Cup: 894
+    Snickers: 720
+    Strawberry: 610
+    Vanilla: 555
+    Walnut: 853
+shake seasonal:
+  winter:
+    cost: 1.60
+    months:
+      - December
+    calories:
+      peppermint chip: 700
+      egg nog: 700
+  summer:
+    cost: 1.60
+    months:
+      - July
+      - August
+    calories:
+      Watermelon: 600
