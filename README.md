@@ -1,7 +1,7 @@
 # cookoutcombinatorics
 
 Calculating the number of different ways you can order a tray (or jr. tray) from Cookout restaurants in the mid-Atlantic
-states.
+states.  Written in support of an [article on the subject at WRAL.com](https://wral.com/21495740)
 
 ## Method
 Cookout trays consist of an entree (20 to choose from), two sides (136 total combinations), and a beverage (56 including
